@@ -1,0 +1,128 @@
+.news-content-mobile {
+  height: calc(100vh - 62rem);
+  overflow-y: auto;
+  scrollbar-width: none;
+  padding: 18rem 0 64rem;
+
+  &__tags {
+    margin: 16rem 0;
+  }
+
+  &__title {
+    font-weight: 700;
+    font-size: 24rem;
+    line-height: 28rem;
+    color: var(--color-dark);
+    margin-bottom: 16rem;
+  }
+
+  &__date {
+    position: relative;
+    width: max-content;
+    font-weight: 500;
+    font-size: 14rem;
+    color: #CFCFCF;
+
+    &::after {
+      position: absolute;
+      content: "";
+      width: 100%;
+      bottom: -4rem;
+      display: block;
+      height: 1rem;
+      background-color: #CFCFCF;
+    }
+  }
+
+  &__next-news {
+    margin-top: 32rem;
+  }
+
+  &__next-news-title {
+    font-weight: 700;
+    font-size: 20rem;
+    color: var(--color-dark);
+    margin-bottom: 16rem;
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 32rem;
+    margin-top: 32rem;
+  }
+}
+
+.news-content-mobile--block {
+  &__text {
+    font-weight: 400;
+    font-size: 16rem;
+    line-height: 20rem;
+    color: var(--color-gray-text);
+    max-width: 600rem;
+    word-break: break-word;
+
+  }
+
+  &__media {
+    display: flex;
+    flex-direction: column;
+    gap: 8rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    img {
+      width: 100%;
+      height: 224rem;
+      border-radius: 32rem;
+    }
+  }
+
+  &__description {
+    font-weight: 700;
+    font-size: 18rem;
+    color: var(--color-dark);
+  }
+}
+
+
+.header-fixed-title {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--color-white);
+  padding: 15rem 16rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;
+
+  &::after {
+    content: "";
+    background: linear-gradient(180deg, #fff, #ffffffbf);
+    filter: blur(3em);
+    height: 100%;
+    position: absolute;
+    right: 0;
+    width: 90rem;
+    z-index: 3;
+  }
+
+  box-shadow: 0px 4px 12px 0px #1E1A230D,
+  0px 2px 6px 0px #5912731A,
+  0px 1px 2px 0px #3E4A5905;
+
+
+  &__content {
+    font-weight: 700;
+    font-size: 16rem;
+    line-height: 18rem;
+    white-space: nowrap;
+    overflow: hidden;
+    color: var(--color-dark);
+  }
+
+
+}

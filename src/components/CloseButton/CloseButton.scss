@@ -1,0 +1,40 @@
+.close-button {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  right: -2rem;
+  mask-image: url('@/assets/images/masks/close-button.png');
+  mask-size: 100% 100%;
+  mask-repeat: no-repeat;
+  background-color: var(--color-pink);
+  width: 128rem;
+  height: 80rem;
+  z-index: 15;
+  transition: opacity 0.2s ease;
+
+  @media (max-width: 768px) {
+    width: 77rem;
+    height: 48rem;
+  }
+
+  &:hover {
+    opacity: 0.8;
+  }
+
+
+
+  img {
+    position: absolute;
+    top: 24rem;
+    right: 28rem;
+    width: 32rem;
+    height: 32rem;
+
+    @media (max-width: 768px) {
+      top: 14rem;
+      right: 17rem;
+      width: 19rem;
+      height: 19rem;
+    }
+  }
+}

@@ -1,0 +1,39 @@
+.arrow-button-mask {
+  position: absolute;
+  cursor: pointer;
+  bottom: 0rem;
+  right: -2rem;
+  mask-image: url('@/assets/images/masks/arrow-button-mask.png');
+  mask-size: 100% 100%;
+  mask-repeat: no-repeat;
+  background-color: var(--color-white);
+  width: 93rem;
+  height: 88rem;
+  z-index: 15;
+  transition: opacity 0.2s ease;
+
+}
+
+.arrow-button-mobile {
+  position: absolute;
+  z-index: 10;
+  top: 36rem;
+  right: 10rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16rem;
+  background-color: var(--color-white);
+  width: 48rem;
+  height: 48rem;
+  box-shadow: 0rem 4rem 12rem 0rem rgba(30, 26, 35, 0.05);
+  padding: 13.57rem 14.43rem;
+
+
+  &__icon-img {
+    width: 20rem;
+    height: 20rem;
+    transform: rotate(-45deg);
+
+  }
+}

@@ -1,0 +1,38 @@
+.tags {
+  display: flex;
+  gap: 8rem;
+  align-items: center;
+
+  &__item {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+    background-color: var(--color-white);
+    padding: 4rem 12rem;
+    border-radius: 16rem;
+    font-weight: 400;
+    font-size: 14rem;
+    line-height: 18rem;
+    border: 1rem solid var(--color-purple);
+
+    &._blue {
+      border-color: var(--color-purple);
+      color: var(--color-purple);
+    }
+
+    &._red {
+      border-color: var(--color-pink);
+      color: var(--color-pink);
+    }
+
+    & img {
+      width: 10rem;
+      height: 10rem;
+
+      @media (max-width: 768px) {
+        width: 18rem;
+        height: 18rem;
+      }
+    }
+  }
+}

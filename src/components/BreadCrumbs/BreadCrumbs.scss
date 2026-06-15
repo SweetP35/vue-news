@@ -1,0 +1,59 @@
+.bread-crumbs {
+  display: flex;
+  align-items: center;
+  gap: 8rem;
+  position: relative;
+
+  @media (max-width: 768px) {
+    overflow: hidden;
+    max-width: 291rem;
+
+    &::after {
+      content: "";
+      background: linear-gradient(180deg, #fff, #ffffffbf);
+      filter: blur(3rem);
+      height: 100%;
+      position: absolute;
+      right: 0;
+      width: 50rem;
+      z-index: 3;
+    }
+  }
+
+  &__link {
+    display: flex;
+    align-items: center;
+    gap: 8rem;
+    font-weight: 500;
+    font-size: 16rem;
+    color: var(--color-dark);
+    text-transform: uppercase;
+    cursor: pointer;
+
+    @media (max-width: 768px) {
+      font-size: 12rem;
+      white-space: nowrap;
+    }
+
+    &::before {
+      content: '';
+      display: block;
+      width: 4rem;
+      height: 4rem;
+      background-color: var(--color-dark);
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    &:first-child::before {
+      display: none;
+    }
+
+    &:last-child {
+      opacity: 0.4;
+      pointer-events: none;
+    }
+  }
+
+
+}

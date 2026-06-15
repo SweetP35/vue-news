@@ -1,0 +1,93 @@
+@use '@/assets/fonts.scss';
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 0.0521vw;
+
+  @media (max-width:768px) {
+    font-size: 0.284vw;
+
+  }
+}
+
+body {
+  font-family: "Onest", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  font: inherit;
+}
+
+input,
+textarea {
+  font: inherit;
+  border: none;
+  outline: none;
+}
+
+.container {
+  max-width: 1096rem;
+  margin: 0 auto;
+  padding: 0 20rem;
+
+  @media (max-width: 768px) {
+    padding: 0 16rem;
+  }
+}
+
+.header {
+  position: fixed;
+  top: 8rem;
+  left: 50%;
+  height: 68rem;
+  width: calc(100% - 64rem);
+  border-radius: 16rem;
+  background-color: var(--background);
+  z-index: 21;
+  transform: translateX(-50%);
+
+  @media (max-width: 768px) {
+    top: 4rem;
+    width: calc(100% - 8rem);
+    height: 54rem;
+  }
+}
+
+
+
+:root {
+  --background: #FFFFFF;
+  --color-dark: #423F3F;
+  --color-purple: #5B4481;
+  --color-pink: #CA2250;
+  --color-white: #FFFFFF;
+  --color-gray: #F3F3F3;
+  --color-gray-text: #717070;
+}
