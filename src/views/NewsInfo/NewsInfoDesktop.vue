@@ -38,7 +38,7 @@ const getNews = async () => {
 	loading.value = true
 
 	try {
-		const response = await fetch(`https://bsk-admin-test.testers-site.ru/api/news/${route.params.id}`)
+		const response = await fetch(`/api/news/${route.params.id}`)
 		const { data } = await response.json()
 		newsData.value = data
 		breadCrumbsLinks[1] = {

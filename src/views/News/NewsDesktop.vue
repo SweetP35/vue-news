@@ -32,7 +32,7 @@ const getNews = async () => {
 	loading.value = true
 	errorMessage.value = ''
 	try {
-		const response = await fetch('https://bsk-admin-test.testers-site.ru/api/news/chto-budet-s-ipotekoy-v-2024-godu')
+		const response = await fetch('/api/news/chto-budet-s-ipotekoy-v-2024-godu')
 		const { data } = await response.json()
 		news.value = data
 	} catch (error) {

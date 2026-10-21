@@ -21,6 +21,12 @@ export default defineConfig({
 		port: 3000,
 		open: true,
 		host: true,
+		proxy: {
+			'/api': {
+				target: 'https://bsk-admin-test.testers-site.ru',
+				changeOrigin: true,
+			},
+		},
 	},
 	build: {
 		target: 'es2015',
