@@ -1,0 +1,162 @@
+{
+	"status": "success",
+	"data": {
+		"head": [],
+		"result": {
+			"meta": {
+				"elementMetaTitle": "Застройщик «БСК» | Новости. Сдана позиция 9 в ЖК «Аэропорт»",
+				"elementMetaKeywords": "в сданном доме, квартиры в брянске, продажа недвижимости",
+				"elementMetaDescription": "Мы рады сообщить вам, что ввели в эксплуатацию новый дом в ЖК «Аэропорт» по адресу ул. Костычева, д.76!",
+				"elementPageTitle": "Застройщик «БСК» | Новости. Сдана позиция 9 в ЖК «Аэропорт»",
+				"elementOgImage": {
+					"id": "256",
+					"timestampX": "2023-12-28T11:44:49+03:00",
+					"moduleId": "iblock",
+					"height": "668",
+					"width": "1001",
+					"fileSize": "131971",
+					"contentType": "image/jpeg",
+					"subdir": "iblock/db9",
+					"fileName": "j056zi7mpenm1lk9cr2ktrum1r2u744s.jpg",
+					"originalName": "fa5nmhwwuqcpqt6yng88xyfrgq50bwsc.jpg",
+					"description": "",
+					"handlerId": null,
+					"externalId": "912b55b562b1c4211966f36fdb20e93f",
+					"src": "https://bsk-admin-test.testers-site.ru/upload/iblock/db9/j056zi7mpenm1lk9cr2ktrum1r2u744s.jpg"
+				}
+			},
+			"id": 76,
+			"code": "vveden-v-ekspluatatsiyu-novyy-industrialnyy-dom-v-zhk-aeroport-",
+			"is_hide_list": false,
+			"date": "26-10-2023",
+			"title": "Введен в эксплуатацию новый индустриальный дом в ЖК «Аэропорт»!",
+			"tags": [
+				{
+					"name": "Типы",
+					"code": "TAG_TYPES",
+					"values": [
+						{
+							"name": "новости",
+							"code": "news",
+							"color": "blue",
+							"src": null
+						}
+					]
+				},
+				{
+					"name": "Темы",
+					"code": "TAG_THEMES",
+					"values": [
+						{
+							"name": "стройка",
+							"code": "building",
+							"color": "red",
+							"src": null
+						}
+					]
+				}
+			],
+			"content": [
+				{
+					"type": "text",
+					"content": "Мы рады сообщить вам, что ввели в эксплуатацию новый дом в ЖК «Аэропорт» по адресу ул. Костычева, д.76!"
+				},
+				{
+					"type": "mediaBlock",
+					"title": "",
+					"description": "",
+					"element": {
+						"title": "",
+						"description": "",
+						"type": "image",
+						"contentType": "image/jpeg",
+						"originalName": "077A1232.jpg",
+						"src": "https://bsk-admin-test.testers-site.ru/upload/iblock/833/yg9xfpka1n8iiz77vifx1oo413zs0glr.jpg"
+					}
+				},
+				{
+					"type": "text",
+					"content": "Чем примечателен этот дом?\r\nВо-первых, красивым современным фасадом. Он сочетает в себе бежевые и кирпичные плиты, отмечен чёрными и серыми акцентами и имеет панорамное остекление. У дома по-настоящему стильный индустриальный вид.\r\nВо-вторых, удобством планировок подъездов. Подъезды выстроены по принципу безбарьерной среды: сами подъезды сквозные, а входы в них расположены на уровне тротуара, что особенно комфортно при использовании колясок.\r\nВ-третьих, продуманностью квартирных планировок. Этим отличаются все жилые комплексы компании БСК, и мы не можем это не отметить. Во всех квартирах, даже однокомнатных, располагаются просторные кухни от 11.82 м², имеются балконы; а начиная с 5 этажа – панорамные застеклённые лоджии. Вы можете выбрать свою квартиру с видом на любую из сторон дома! Трёхкомнатные квартиры – распашные, выходят на обе стороны дома.\r\n"
+				},
+				{
+					"type": "text",
+					"content": "В ЖК «Аэропорт» мы позаботились и о частой проблеме современного жителя большого города – о парковке. На придомовой территории мы расположили для вас достаточное количество парковочных мест и эффективно использовали внутридворовое пространство: в скором времени во дворе дома появится зелёный живописный сквер для прогулок."
+				},
+				{
+					"type": "text",
+					"content": "ЖК «Аэропорт» имеет развитую инфраструктуру: рядом с домом располагаются частная клиника «Медси» и поликлиника, лицей, школы, 3 детских сада, дворец единоборств, а также разнообразные магазины и услуги повседневного спроса – супермаркеты, салоны красоты, ветклиники, аптеки, рестораны и кофейни. Недалеко находится церковь.\r\n"
+				},
+				{
+					"type": "text",
+					"content": "Отдельно отметим удачное расположение дома на ул. Костычева, 76 в ЖК «Аэропорт»: Советский район – это самый центр Брянска. Расположение дома позволяет попасть на соседнюю улицу Советскую, которая проходит через микрорайон жилой застройки, мимо Дворца единоборств. До ТЦ «Аэропарк» дорога на машине составляет всего 5 минут. Район богат транспортным сообщением, автобусами и маршрутными такси."
+				},
+				{
+					"type": "text",
+					"content": "Дом на ул. Костычева, д.76 в ЖК «Аэропорт» – прекрасный выбор для современного жителя Брянска. Мы предлагаем вам на выбор однокомнатные, двухкомнатные и трёхкомнатные квартиры площадью от 44.03 м² до 87.26 м²."
+				},
+				{
+					"type": "mediaBlock",
+					"title": "",
+					"description": "",
+					"element": {
+						"title": "",
+						"description": "",
+						"type": "image",
+						"contentType": "image/jpeg",
+						"originalName": "077A4766.jpg",
+						"src": "https://bsk-admin-test.testers-site.ru/upload/iblock/59f/5j906doyitw61m2grmsp5603nwgk579f.jpg"
+					}
+				},
+				{
+					"type": "mediaBlock",
+					"title": "",
+					"description": "",
+					"element": {
+						"title": "",
+						"description": "",
+						"type": "image",
+						"contentType": "image/jpeg",
+						"originalName": "077A4770.jpg",
+						"src": "https://bsk-admin-test.testers-site.ru/upload/iblock/13e/zmpvadg3vttppnz401y9kyhfbnkv1qzf.jpg"
+					}
+				}
+			],
+			"advantage_slider_elements": null,
+			"advantage_slider_complex": null,
+			"next": {
+				"id": 77,
+				"code": "pro-fotoproekt-vkadrebsk",
+				"date": "17-10-2023",
+				"title": "Про фотопроект #вкадреБСК",
+				"tags": [
+					{
+						"name": "Типы",
+						"code": "TAG_TYPES",
+						"values": [
+							{
+								"name": "новости",
+								"code": "news",
+								"color": "blue",
+								"src": null
+							}
+						]
+					},
+					{
+						"name": "Темы",
+						"code": "TAG_THEMES",
+						"values": [
+							{
+								"name": "мероприятия",
+								"code": "events",
+								"color": "red",
+								"src": null
+							}
+						]
+					}
+				],
+				"picture": "https://bsk-admin-test.testers-site.ru/upload/iblock/93d/8v70fbp99vs4jhfv42whpi8lmvfcgozt.jpg"
+			}
+		}
+	},
+	"errors": []
+}

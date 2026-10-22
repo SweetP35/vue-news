@@ -1,0 +1,151 @@
+{
+	"status": "success",
+	"data": {
+		"head": [],
+		"result": {
+			"meta": {
+				"elementMetaTitle": "Застройщик «БСК» | Новости. Старт продаж позиция 2 Квартал «Рябиновый»",
+				"elementMetaKeywords": "деснаград, квартиры на флотской, купить квартиру в бежицком районе",
+				"elementMetaDescription": "Мы начинаем продажу квартир в Квартале «Рябиновый», 2 позиция – второго дома в серии новых кварталов микрорайона Деснаград!\r\n",
+				"elementPageTitle": "Застройщик «БСК» | Новости. Старт продаж позиция 2 Квартал «Рябиновый»",
+				"elementOgImage": {
+					"id": "271",
+					"timestampX": "2023-12-28T12:08:08+03:00",
+					"moduleId": "iblock",
+					"height": "1280",
+					"width": "1920",
+					"fileSize": "372362",
+					"contentType": "image/jpeg",
+					"subdir": "iblock/b66",
+					"fileName": "qwt45es57jmed1gmv1nx4vnsvs3er3zs.jpg",
+					"originalName": "DG_Poz_02_2023_03.jpg",
+					"description": "",
+					"handlerId": null,
+					"externalId": "551b7ad4a0c0d659665c2a2725fb7d33",
+					"src": "https://bsk-admin-test.testers-site.ru/upload/iblock/b66/qwt45es57jmed1gmv1nx4vnsvs3er3zs.jpg"
+				}
+			},
+			"id": 56,
+			"code": "osennyaya-likhoradka-v-desnagrade-v-prodazhe-novye-kvartiry-kvartala-ryabinovyy-2-pozitsiya",
+			"is_hide_list": false,
+			"date": "11-10-2023",
+			"title": "Осенняя лихорадка в Деснаграде: в продаже новые квартиры Квартала «Рябиновый», 2 позиция",
+			"tags": [
+				{
+					"name": "Типы",
+					"code": "TAG_TYPES",
+					"values": [
+						{
+							"name": "новости",
+							"code": "news",
+							"color": "blue",
+							"src": null
+						}
+					]
+				},
+				{
+					"name": "Темы",
+					"code": "TAG_THEMES",
+					"values": [
+						{
+							"name": "стройка",
+							"code": "building",
+							"color": "red",
+							"src": null
+						}
+					]
+				}
+			],
+			"content": [
+				{
+					"type": "text",
+					"content": "Осень – отличное время для выбора новой квартиры, и нам есть, что вам предложить."
+				},
+				{
+					"type": "text",
+					"content": "Мы начинаем продажу квартир в Квартале «Рябиновый», 2 позиция – второго дома в серии новых кварталов микрорайона Деснаград!\r\n"
+				},
+				{
+					"type": "text",
+					"content": "Самый осенний дом Деснаграда – Квартал «Рябиновый», построен из серых и бежевых строительных панелей, с красным и коричневым кирпичом и белыми и тёмно-серыми оконными профилями. Дом представлен 230 квартирами на 10 этажах в 4 жилых подъездах. В продаже Квартала «Рябиновый» находятся:\r\n"
+				},
+				{
+					"type": "text",
+					"content": "· 143 однокомнатных квартиры от 34,88 до 46,74 м2;\r\n\r\n"
+				},
+				{
+					"type": "text",
+					"content": "· 27 двухкомнатных квартир от 51,02 до 53,94 м2;"
+				},
+				{
+					"type": "text",
+					"content": "· 50 трёхкомнатных квартир от 73,95 до 81,26 м2."
+				},
+				{
+					"type": "text",
+					"content": "Квартиры имеют различные планировки, отметим несколько самых удачных:\r\n\r\n\r\n\r\n"
+				},
+				{
+					"type": "text",
+					"content": "- некоторые из однокомнатных и трёхкомнатных квартир выше 3-го этажа имеют панорамное остекление – замечательный вариант с живописным видом;"
+				},
+				{
+					"type": "text",
+					"content": "Стоимость квартир зависит от площади и планировки:\r\n\r\n\r\n"
+				},
+				{
+					"type": "text",
+					"content": "- у всех квартир большие кухни – от 10 до 14 м2 ."
+				},
+				{
+					"type": "text",
+					"content": "· однокомнатные квартиры от 2 511 360 руб."
+				},
+				{
+					"type": "text",
+					"content": "· двухкомнатные квартиры от 3 826 500 руб."
+				},
+				{
+					"type": "text",
+					"content": "· трёхкомнатные квартиры от 4 806 750 руб."
+				}
+			],
+			"advantage_slider_elements": null,
+			"advantage_slider_complex": null,
+			"next": {
+				"id": 81,
+				"code": "fotokonkurs-zdravstvuy-shkola-",
+				"date": "06-10-2023",
+				"title": "Фотоконкурс «Здравствуй, школа»",
+				"tags": [
+					{
+						"name": "Типы",
+						"code": "TAG_TYPES",
+						"values": [
+							{
+								"name": "новости",
+								"code": "news",
+								"color": "blue",
+								"src": null
+							}
+						]
+					},
+					{
+						"name": "Темы",
+						"code": "TAG_THEMES",
+						"values": [
+							{
+								"name": "мероприятия",
+								"code": "events",
+								"color": "red",
+								"src": null
+							}
+						]
+					}
+				],
+				"picture": "https://bsk-admin-test.testers-site.ru/upload/iblock/5a9/j9vcxxhhzffj2kblv36ifjbaeesz41ng.png"
+			}
+		}
+	},
+	"errors": []
+}

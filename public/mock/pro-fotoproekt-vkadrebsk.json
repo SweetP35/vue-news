@@ -1,0 +1,154 @@
+{
+  "status": "success",
+  "data": {
+    "head": [],
+    "result": {
+      "meta": {
+        "elementMetaTitle": "Застройщик «БСК» | Новости. Про фотопроект #вкадреБСК",
+        "elementMetaKeywords": "бск, ЖК, квартиры в брянске, от застройщика",
+        "elementMetaDescription": "Вот такие классные фотографии получают жители, которые приняли участие в нашем фотопроекте #вкадреБСК.",
+        "elementPageTitle": "Застройщик «БСК» | Новости. Про фотопроект #вкадреБСК",
+        "elementOgImage": {
+          "id": "264",
+          "timestampX": "2023-12-28T11:55:54+03:00",
+          "moduleId": "iblock",
+          "height": "668",
+          "width": "1001",
+          "fileSize": "133008",
+          "contentType": "image/jpeg",
+          "subdir": "iblock/93d",
+          "fileName": "8v70fbp99vs4jhfv42whpi8lmvfcgozt.jpg",
+          "originalName": "8v70fbp99vs4jhfv42whpi8lmvfcgozt.jpg",
+          "description": "",
+          "handlerId": null,
+          "externalId": "f9da5411f81ee855abe7b8afba1e09d6",
+          "src": "https://bsk-admin-test.testers-site.ru/upload/iblock/93d/8v70fbp99vs4jhfv42whpi8lmvfcgozt.jpg"
+        }
+      },
+      "id": 77,
+      "code": "pro-fotoproekt-vkadrebsk",
+      "is_hide_list": false,
+      "date": "17-10-2023",
+      "title": "Про фотопроект #вкадреБСК",
+      "tags": [
+        {
+          "name": "Типы",
+          "code": "TAG_TYPES",
+          "values": [
+            {
+              "name": "новости",
+              "code": "news",
+              "color": "blue",
+              "src": null
+            }
+          ]
+        },
+        {
+          "name": "Темы",
+          "code": "TAG_THEMES",
+          "values": [
+            {
+              "name": "мероприятия",
+              "code": "events",
+              "color": "red",
+              "src": null
+            }
+          ]
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "content": "Вот такие классные фотографии получают жители, которые приняли участие в нашем фотопроекте #вкадреБСК "
+        },
+        {
+          "type": "mediaBlock",
+          "title": "",
+          "description": "",
+          "element": {
+            "title": "",
+            "description": "",
+            "type": "image",
+            "contentType": "image/jpeg",
+            "originalName": "2.jpg",
+            "src": "https://bsk-admin-test.testers-site.ru/upload/iblock/809/dxr9kw4cj3fpbfieikfdez9uingnchrc.jpg"
+          }
+        },
+        {
+          "type": "mediaBlock",
+          "title": "",
+          "description": "",
+          "element": {
+            "title": "",
+            "description": "",
+            "type": "image",
+            "contentType": "image/jpeg",
+            "originalName": "3.jpg",
+            "src": "https://bsk-admin-test.testers-site.ru/upload/iblock/bfd/j218cqhrlx0wisbwahyttab8udfjcu6h.jpg"
+          }
+        },
+        {
+          "type": "mediaBlock",
+          "title": "",
+          "description": "",
+          "element": {
+            "title": "",
+            "description": "",
+            "type": "image",
+            "contentType": "image/jpeg",
+            "originalName": "5.jpg",
+            "src": "https://bsk-admin-test.testers-site.ru/upload/iblock/766/02x10177ck3es75vrf95iha4ncuze77v.jpg"
+          }
+        },
+        {
+          "type": "text",
+          "content": "По условиям акции, участниками фотосессии могут стать семьи, семейные пары с детьми и без, можно с домашними животными. В фотопроекте могут участвовать только жители микрорайона Деснаград, ЖК «Аэропорт» и ЖК «Видный».\r\n\r\n\r\n\r\n"
+        },
+        {
+          "type": "text",
+          "content": "Профессиональный фотограф Евгений Грызунов проводит съёмку на территории ЖК на улице. Заявку на участие необходимо присылать в личные сообщения в нашу группу в ВК. "
+        },
+        {
+          "type": "text",
+          "content": "По окончании приёма заявок мы выбираем одну семью для проведения фотосессии.После фотосессии участники получат на руки около 20 обработанных фото. Кроме того, семья участвующая в фотосессии станет представлять БСК, фотографии жителей мы будем использовать в рекламе микрорайона."
+        }
+      ],
+      "advantage_slider_elements": null,
+      "advantage_slider_complex": null,
+      "next": {
+        "id": 56,
+        "code": "osennyaya-likhoradka-v-desnagrade-v-prodazhe-novye-kvartiry-kvartala-ryabinovyy-2-pozitsiya",
+        "date": "11-10-2023",
+        "title": "Осенняя лихорадка в Деснаграде: в продаже новые квартиры Квартала «Рябиновый», 2 позиция",
+        "tags": [
+          {
+            "name": "Типы",
+            "code": "TAG_TYPES",
+            "values": [
+              {
+                "name": "новости",
+                "code": "news",
+                "color": "blue",
+                "src": null
+              }
+            ]
+          },
+          {
+            "name": "Темы",
+            "code": "TAG_THEMES",
+            "values": [
+              {
+                "name": "стройка",
+                "code": "building",
+                "color": "red",
+                "src": null
+              }
+            ]
+          }
+        ],
+        "picture": "https://bsk-admin-test.testers-site.ru/upload/iblock/38c/tsgfoiuwpzfsnpah5nu6fab9rz04nfov.jpg"
+      }
+    }
+  },
+  "errors": []
+}

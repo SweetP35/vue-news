@@ -4,9 +4,12 @@ export async function fetchNews(code) {
 		: `/mock/${code}.json`
 
 	const response = await fetch(url)
-	if (!response.ok) {
-		throw new Error(`Ошибка загрузки: ${response.status}`)
+	const isJson = response.headers.get('content-type')?.includes('json')
+
+	if (!response.ok || !isJson) {
+		throw new Error('Эта новость недоступна в демо-версии')
 	}
+
 	const { data } = await response.json()
 	return data
 }

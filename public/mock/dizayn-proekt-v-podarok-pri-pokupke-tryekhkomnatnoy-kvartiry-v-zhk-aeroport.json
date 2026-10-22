@@ -1,0 +1,153 @@
+{
+  "status": "success",
+  "data": {
+    "head": [],
+    "result": {
+      "meta": {
+        "elementMetaTitle": "Застройщик «БСК» | Новости. Дизайн-проект в подарок при покупке квартиры от БСК",
+        "elementMetaKeywords": "от застройщика, трехкомнатные квартиры, купить 3к квартиру",
+        "elementMetaDescription": "Дом по адресу Горбатова, 35 уже сдан и принимает жильцов. А для тех, кто ещё определяется с выбором, мы подготовили акцию: при покупке трёхкомнатной квартиры вы получите дизайн-проект в подарок!\r\n",
+        "elementPageTitle": "Застройщик «БСК» | Новости. Дизайн-проект в подарок при покупке квартиры от БСК",
+        "elementOgImage": {
+          "id": "325",
+          "timestampX": "2023-12-28T14:48:53+03:00",
+          "moduleId": "iblock",
+          "height": "708",
+          "width": "1000",
+          "fileSize": "365966",
+          "contentType": "image/png",
+          "subdir": "iblock/c53",
+          "fileName": "ys2kerqyyp2m187o08rqf5q3yhwpf44n.png",
+          "originalName": "1.png",
+          "description": "",
+          "handlerId": null,
+          "externalId": "f653b220aa4654a0a7b2feac7b6a065d",
+          "src": "https://bsk-admin-test.testers-site.ru/upload/iblock/c53/ys2kerqyyp2m187o08rqf5q3yhwpf44n.png"
+        }
+      },
+      "id": 75,
+      "code": "dizayn-proekt-v-podarok-pri-pokupke-tryekhkomnatnoy-kvartiry-v-zhk-aeroport",
+      "is_hide_list": false,
+      "date": "11-12-2023",
+      "title": "Дизайн-проект в подарок при покупке трёхкомнатной квартиры в ЖК Аэропорт",
+      "tags": [
+        {
+          "name": "Типы",
+          "code": "TAG_TYPES",
+          "values": [
+            {
+              "name": "новости",
+              "code": "news",
+              "color": "blue",
+              "src": null
+            }
+          ]
+        },
+        {
+          "name": "Темы",
+          "code": "TAG_THEMES",
+          "values": [
+            {
+              "name": "акции",
+              "code": "offers",
+              "color": "red",
+              "src": "https://bsk-admin-test.testers-site.ru/upload/uf/25f/u4q1ejojd492vk5nzzfvs15td84s68gr/news_icon_offer_red.svg"
+            }
+          ]
+        }
+      ],
+      "content": [
+        {
+          "type": "text",
+          "content": "Идеальный вариант для покупки трёхкомнатной квартиры в Брянске ждёт вас в \u003Ca href=\"/aeroport\"\u003EЖК Аэропорт\u003C/a\u003E"
+        },
+        {
+          "type": "mediaBlock",
+          "title": "",
+          "description": "",
+          "element": {
+            "title": "",
+            "description": "",
+            "type": "image",
+            "contentType": "image/png",
+            "originalName": "BSK-AD202311-Design-project-09.png",
+            "src": "https://bsk-admin-test.testers-site.ru/upload/iblock/728/an7wf1099ypc6vp8xbtpk7grnupywmjd.png"
+          }
+        },
+        {
+          "type": "text",
+          "content": "ЖК Аэропорт – это современный жилой комплекс в центре Советского района Брянска, а застройщик – надёжная и давно зарекомендовавшая себя на строительном рынке Брянская Строительная Компания. Идеальный вариант для покупки трёхкомнатной квартиры в Брянске ждёт вас в ЖК Аэропорт! А мы расскажем, почему.\r\n"
+        },
+        {
+          "type": "text",
+          "content": "ЖК располагается в центре Советского района и отличается современными фасадами, повышенной звуко- и теплоизоляцией. Темно-синие, коричневые, желтые и белые оттенки внешней отделки здания благородно сочетаются между собой и придают дому современный и стильный вид.\r\n"
+        },
+        {
+          "type": "text",
+          "content": "Придомовая территория благоустроена: во дворе находится школа и детский сад, огороженная спортивная площадка и современная детская площадка с тартановым покрытием. В пешей доступности располагаются магазины повседневного спроса, салоны красоты, кафе, аптеки и остальная инфраструктура.\r\n"
+        },
+        {
+          "type": "text",
+          "content": "Дом по адресу Горбатова, 35 уже сдан и принимает жильцов. А для тех, кто ещё определяется с выбором, мы подготовили акцию: при покупке трёхкомнатной квартиры вы получите дизайн-проект в подарок!\r\n"
+        },
+        {
+          "type": "mediaBlock",
+          "title": "",
+          "description": "",
+          "element": {
+            "title": "",
+            "description": "",
+            "type": "image",
+            "contentType": "image/jpeg",
+            "originalName": "077A0676 (1).jpg",
+            "src": "https://bsk-admin-test.testers-site.ru/upload/iblock/2b5/dsirwk5bnnx4k7iipuw0m1f986g8bmeq.jpg"
+          }
+        },
+        {
+          "type": "text",
+          "content": "Всего в доме представлены 7 вариантов планировок трёхкомнатных квартир от 80 м²: и классические, и необычные угловые от 95 м² с двусторонней ориентацией. Акция по дизайн-проекту в подарок проводится для трёхкомнатных квартир площадью 97,92 м² в центральной монолитной части дома.\r\n"
+        },
+        {
+          "type": "text",
+          "content": "Дизайн-проект в подарок – не просто приятный сюрприз, но и хороший способ сократить время и затраты на ремонт, а также отличная экономия на услугах дизайнера! Вы получите полный дизайн-проект вашей будущей квартиры: в подарочный комплект входит визуализация и технические чертежи. Дизайнер уже продумал за вас внешний вид квартиры и отделку, грамотно расставил мебель, подобрал детали интерьера. \r\n\u003Cbr\u003EПосмотреть планировку квартиры можно \u003Ca href=\"#/profitbase/house/69592/plans?propertyId=7399132&floorNumber=2§ionNumber=4&facadeId=32994&filter=property.status:AVAILABLE\"\u003Eв каталоге\u003C/a\u003E. \r\n"
+        }
+      ],
+      "advantage_slider_elements": null,
+      "advantage_slider_complex": null,
+      "next": {
+        "id": 86,
+        "code": "na-ulitse-liteynaya-poyavitsya-novyy-zhk-start-prodazh-v-dvukh-novykh-domakh-zhk-d4",
+        "date": "16-11-2023",
+        "title": "На улице Литейная появится новый ЖК. Старт продаж в двух новых домах ЖК «Д4»",
+        "tags": [
+          {
+            "name": "Типы",
+            "code": "TAG_TYPES",
+            "values": [
+              {
+                "name": "новости",
+                "code": "news",
+                "color": "blue",
+                "src": null
+              }
+            ]
+          },
+          {
+            "name": "Темы",
+            "code": "TAG_THEMES",
+            "values": [
+              {
+                "name": "стройка",
+                "code": "building",
+                "color": "red",
+                "src": null
+              }
+            ]
+          }
+        ],
+        "picture": "https://bsk-admin-test.testers-site.ru/upload/iblock/d22/c9xqjq03vrzdbsz35dfawtqqwv6w6z1k/bd0gczz69b35gx82j2gutwhp0v61h5si.jpg"
+      }
+    }
+  },
+  "errors": []
+}
