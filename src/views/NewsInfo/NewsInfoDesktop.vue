@@ -31,8 +31,8 @@ const breadCrumbsLinks = [
 	}
 ]
 
-watch(() => route.params.id, () => {
-	getNews()
+watch(() => route.params.id, (id) => {
+	if (id) getNews()
 })
 
 const getNews = async () => {
