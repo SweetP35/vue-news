@@ -20,6 +20,7 @@
 </template>
 
 <script setup>
+import { fetchNews } from '@/api/news'
 import NewsCard from '@/components/Desktop/NewsCard/NewsCard.vue'
 import { RouterView } from 'vue-router'
 import { ref } from 'vue'
@@ -32,9 +33,7 @@ const getNews = async () => {
 	loading.value = true
 	errorMessage.value = ''
 	try {
-		const response = await fetch('/api/news/chto-budet-s-ipotekoy-v-2024-godu')
-		const { data } = await response.json()
-		news.value = data
+		news.value = await fetchNews('chto-budet-s-ipotekoy-v-2024-godu')
 	} catch (error) {
 		console.error(error)
 		errorMessage.value = 'Ошибка загрузки новости'

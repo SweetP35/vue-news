@@ -16,6 +16,7 @@
 </template>
 
 <script setup>
+import { fetchNews } from '@/api/news'
 import PopupPage from '@/components/Popup/Page/PopupPage.vue'
 import NewsContent from '@/components/Mobile/ContentPopup/News/NewsContent.vue'
 import { onMounted, ref, watch } from 'vue'
@@ -44,8 +45,7 @@ const getNews = async () => {
 	loading.value = true
 
 	try {
-		const response = await fetch(`/api/news/${route.params.id}`)
-		const { data } = await response.json()
+		const data = await fetchNews(route.params.id)
 		newsData.value = data
 		breadCrumbsLinks[1] = {
 			name: data.result.title
