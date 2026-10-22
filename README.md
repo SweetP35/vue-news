@@ -1,44 +1,30 @@
-# vue-project-test
+# News Feed
 
-This template should help get you started developing with Vue 3 in Vite.
+Тестовое задание: лента новостей с детальным просмотром в попапе и отдельными версиями интерфейса для desktop и mobile.
 
-## Recommended IDE Setup
+🔗 **Демо:** [sweetp35.github.io/vue-news/](https://sweetp35.github.io/vue-news/)
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![Скриншот](./screenshot5.png)
 
-## Recommended Browser Setup
+## Стек
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- **Vue 3** (Composition API, `<script setup>`)
+- **Vue Router** — вложенные маршруты: новость открывается в попапе по адресу `/news/:id`
+- **SCSS** — отдельный файл стилей для каждого компонента, адаптивная вёрстка
+- **Fetch API** — загрузка данных с REST API
+- **Vite**, **ESLint**, **Oxlint**
 
-## Customize configuration
+## Возможности
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Карточка новости: дата, изображение, заголовок, теги
+- Детальная новость в попапе с анимацией открытия и закрытия (`<Transition>`, `<Teleport>`)
+- Хлебные крошки с названием текущей новости
+- Отдельные компоненты для desktop и mobile, выбор версии по устройству и ширине экрана
+- Состояния загрузки и ошибки
 
-## Project Setup
+## Запуск
 
-```sh
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
